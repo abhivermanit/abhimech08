@@ -4,11 +4,9 @@
 
 ## I'm a Budding Data Engineer, IT professional, and Student!!
                                                                          
-![](https://[miro.medium.com/max/1400/1*EE4IrlniNAhubIUrFqV3FQ.jpeg](https://www.lynchburg.edu/wp-content/uploads/statistics-and-data-science/banner-statistics-and-data-science-1.jpg))
+![](https://www.lynchburg.edu/wp-content/uploads/statistics-and-data-science/banner-statistics-and-data-science-1.jpg)
 
-
-Skills: Python / SQL / ML / Tableau / VS-code
-                                                                     
+                   
                                                                             
 
 - 🌱 Experienced IT professional working as a Database Administrator
