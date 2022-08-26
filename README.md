@@ -1,5 +1,3 @@
-<img src=”https://miro.medium.com/max/1400/1*EE4IrlniNAhubIUrFqV3FQ.jpeg" alt=”my banner”>
-
 # Hi there, I'm Abhishek👋 
 
 ## I'm a Budding Data Engineer, IT professional, and Student!!
