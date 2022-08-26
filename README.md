@@ -9,18 +9,6 @@
 - 🥅 Current goals are to learn Deep Learning and Advanced Machine Learning
 - ⚡ Fun fact: I love to play football and code.
 
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/abhimech08?t=H5uTvAzB2xcXKZOX1BFq2A&s=09
-#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/abhimech08?t=H5uTvAzB2xcXKZOX1BFq2A&s=09
-#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abhishek-verma-610286186#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abhishek-verma-610286186#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/abhimech8/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/abhimech8/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
