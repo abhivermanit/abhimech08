@@ -3,6 +3,13 @@
 # Hi there, I'm Abhishek👋 
 
 ## I'm a Budding Data Engineer, IT professional, and Student!!
+                                                                         
+![](https://miro.medium.com/max/1400/1*EE4IrlniNAhubIUrFqV3FQ.jpeg)
+
+
+Skills: Python / SQL / ML / Tableau / VS-code
+                                                                     
+                                                                            
 
 - 🌱 Experienced IT professional working as a Database Administrator
 - 👯 I’m looking to switch into the Data Engineering roles
