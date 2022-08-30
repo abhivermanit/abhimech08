@@ -2,9 +2,7 @@
 
 ## I'm a Budding Data Engineer, IT professional, and a Student!!
                                                                          
-![](https://www.lynchburg.edu/wp-content/uploads/statistics-and-data-science/banner-statistics-and-data-science-1.jpg)
-
-                   
+                
                                                                             
 
 - 🌱 Experienced IT professional working as a Database Administrator
