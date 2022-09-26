@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek👋 
 
-## I'm a Budding Data Engineer, IT professional, and a Student!!
+## I'm a Data Enthusiast, IT professional, and a Student!!
                                                                          
                 
                                                                             
