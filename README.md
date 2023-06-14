@@ -1,11 +1,11 @@
 # Hi there, I'm Abhishek👋 
 
-## I'm a Data Enthusiast, IT professional, and a Student!!
+## I'm a Data Enthusiast and a Student!!
                                                                          
                 
                                                                             
 
-- 🌱 Experienced IT professional working as a Database Administrator
+- 🌱 Experienced IT professional working as a Data Scientist
 - 👯 I’m looking to switch into the Data Engineering roles
 - 🥅 Current goals are to learn Deep Learning and Advanced Machine Learning
 - ⚡ Fun fact: I love to play football and code.
